@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Webbed Menace Strikes Again"
+title: "Webbed Menace Strikes Again "
 date: 2021-09-01
 ---
 
