@@ -13,10 +13,11 @@ h2 {
 }
 
 div.portrait {
- 
-  max-width: 200px;
-  height: 100px;
- 
+  position: relative; 
+   
+  width: 200px;
+  height: auto;
+  border: 3px solid #73AD21;
 }
 
 p {
