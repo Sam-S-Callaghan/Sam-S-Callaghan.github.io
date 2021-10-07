@@ -13,9 +13,7 @@ h2 {
 }
 
 div.portrait {
-  position: relative; 
-   
-  width: 200px;
+  max-width: 50%;
   height: auto;
   border: 3px solid #73AD21;
 }
