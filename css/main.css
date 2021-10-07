@@ -12,6 +12,11 @@ h2 {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+img {
+  width: 40px;
+  height: auto;
+}
+
 p {
   font-size: 1.5em;
   line-height: 1.4em;
