@@ -12,7 +12,7 @@ h2 {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-.portrait {
+div.portrait {
   position: absolute;
   top: 80px;
   right: 0;
