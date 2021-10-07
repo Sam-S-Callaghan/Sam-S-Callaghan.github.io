@@ -13,9 +13,9 @@ h2 {
 }
 
 .descriptor {
-  positon: absolute;
-  top: 40px;
-  right: 400px;
+  position: fixed;
+  top: 400;
+  left: 400;
   border: 3px solid #988686;
 }
 
