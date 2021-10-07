@@ -12,6 +12,10 @@ h2 {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+.portrait {
+  width: 40px;
+  height: auto;
+}
 
 p {
   font-size: 1.5em;
