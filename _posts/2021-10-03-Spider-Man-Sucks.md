@@ -17,5 +17,5 @@ billionaires and everything comes easy to him. It just doesn't suit his characte
 Now reader, I understand what you're saying, the Mask Menance does indeed not live up to acclaimed expectations. 
 However, your reasoning still misses a cruical detail, spider man has __never__ been a hero of the proletariat.
 
-#HE IS A HERO OF THE BIRDS. STAY VIGILANT.
+# HE IS A HERO OF THE BIRDS. STAY VIGILANT.
 
